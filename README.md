@@ -11,5 +11,6 @@
 4. 实例化研究生类时，可采用运行时通过main方法的参数args一次性赋值，也可采用Scanner类实现运行时交互式输入。
 5. 根据输入情况，要在程序中做异常处理。
 # 实验过程
-定义了两个接口：StudentInterface,TeacherInterface
+一共定义了三个类：Graduate，StudentInterface,TeacherInterface
+其中定义了两个接口：StudentInterface,TeacherInterface
 
