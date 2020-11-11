@@ -37,10 +37,10 @@
 当用户输入的学费为0时，系统会给出提示，提示学费不能为0，但是程序继续运行
 # 运行结果
 程序正常的运行结果
-!(alert)[https://github.com/shenlu-hub/-_-/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.PNG]
+![运行结果](https://github.com/shenlu-hub/-_-/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.PNG)
 
 有异常处理事件的运行结果
-!(alert)[https://github.com/shenlu-hub/-_-/blob/main/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.PNG]
+![异常处理](https://github.com/shenlu-hub/-_-/blob/main/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.PNG)
 
 # 实验总结
 - 掌握了接口的定义与实现
